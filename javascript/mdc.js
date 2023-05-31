@@ -1,4 +1,4 @@
-<script>
+
 var a = prompt("primeiro num");
 var b = prompt("segundo num");
 
@@ -18,4 +18,3 @@ for (let i = 2; i < maior; ++i){
     }
 }
 console.log(mdc);
-</script>
