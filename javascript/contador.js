@@ -1,4 +1,3 @@
-<script>
 
 var tam = parseInt(prompt("Qual o número máximo?"))
 var result = 0
@@ -9,4 +8,3 @@ for(var i  = 0; i<tam; i++){
     }
 }
 document.write("Ha " + " valores inteiros")
-</script>
