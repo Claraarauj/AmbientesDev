@@ -61,13 +61,6 @@ Para realizar esse teste foi criado alguns casos de teste, após essa criação 
 
 
 
-Teste do algoritmo Quicksort:
-
- 
-
-Para realizar o teste, foi criado uma função chamada “Troca”, em seguida no código de teste foi definido um array chamado “items” e foi classificado usando a função “quicksort”. E por último será impresso no console o array original e o array classificado, onde o classificado será a exibição dos valores ordenados em ordem crescente.
-
-  ![image](https://github.com/Claraarauj/AmbientesDev/assets/128004975/bfef5196-7f79-4553-90c8-0fbd7b935327)
 
 
 
@@ -82,11 +75,6 @@ Para realizar o teste, foi criado uma função chamada “Troca”, em seguida n
 
 
 
-
-
-Teste do algoritmo de Fibonacci:
-
- ![image](https://github.com/Claraarauj/AmbientesDev/assets/128004975/c31d6b3d-79b3-4f76-acdc-3d893d87eaed)
 
 
 Os testes neste arquivo verificam os resultados para diferentes valores de “n”.
